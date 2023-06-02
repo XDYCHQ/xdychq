@@ -1,0 +1,1 @@
+(function hitokoto(){var hitokoto="希望月光带你回到我身边。";var dom=document.querySelector('#hitokoto');Array.isArray(dom)?dom[0].innerText=hitokoto:dom.innerText=hitokoto;})()
